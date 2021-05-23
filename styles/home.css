@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
 .container_sites{
     display: flex;
     justify-content: space-between;
+    margin-top: 40px;
 }
 
 section{
