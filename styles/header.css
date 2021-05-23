@@ -34,6 +34,7 @@ header{
     padding: 5px 10px;
     border-radius: 10px;
     border: none;
+    text-decoration: none;
 }
 
 .twitter img{
